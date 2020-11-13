@@ -5,7 +5,7 @@ selenium-requests
 html5lib
 opencv-python
 tensorflow_hub
-tensorflow-gpu==1.13
+tensorflow-gpu==2.3.1
 pandas
 numpy
 git+https://github.com/hippoandy/Utils_Data_Analysis_Python
